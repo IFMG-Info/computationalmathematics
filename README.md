@@ -107,4 +107,18 @@ estabilidade e o controle livre da doença com a inserção da vacinação.</p><
   </ul>
 </li>
 
+<li>
+  <ul>
+    <li> <b>Aluno</b>: Rodrigo Malaquias Viana </li>
+    <li> <b>Orientador</b>: Bruno Nonato Gomes</li>
+    <li> <b>Coorientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Título do trabalho</b>: Um estudo comparativo do desempenho de linguagens de programação utilizando técnicas computacionais aplicadas ao Problema do Caixeiro-Viajante</li>
+    <li> <p align="Justify"><b>Resumo</b>: O Problema do Caixeiro Viajante (PCV) é um clássico problema da Pesquisa Operacional que surge em diversos contextos práticos, como problemas de roteamento de veículos, perfuração de placas de circuito impresso, manutenção de motores de turbina a gás, sequenciamento de genoma, entre outros. A eficácia da linguagem de programação utilizada para abordar o PCV pode influenciar diretamente a qualidade da solução. Neste trabalho buscou-se analisar o desempenho de linguagens de programação amplamente reconhecidas no âmbito acadêmico e profissional, sendo elas C, Python, C\# e Julia. Utilizaram-se tanto técnicas heurísticas quanto metaheurísticas para resolver o problema de otimização representado pelo PCV. Os resultados mostram que a escolha da linguagem e a técnica afeta diretamente na execução final, onde linguagens como C e Julia se destacaram significativamente, apresentando resultados que eram, no mínimo, duas vezes mais rápidos do que os obtidos com as demais linguagens, com essa vantagem aumentando à medida que o problema se tornava mais complexo. </p></li>
+    <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/datascience/blob/main/Um_Estudo_Comparativo_PCV_RodrigoMalaquias_TCC2024.pdf </li>
+    <li> <b>Veículo de divulgação</b>: Repositório IFMG </li>
+    <li> <b>Citação</b>: VIANA, R. M.; GOMES, B. N.; SILVA, C. A. Um estudo comparativo do desempenho de linguagens de programação utilizando técnicas computacionais aplicadas ao Problema do Caixeiro-Viajante. 2024. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal Minas Gerais. </li>
+    <li> <b>Link</b>: https://repositorio.ifmg.edu.br/items/401d5689-0889-446d-be9d-61e27a783745 </li>
+  </ul>
+</li>
+
 </ol>
