@@ -60,8 +60,6 @@ Este repositório reúne produções acadêmicas na área de Matemática Computa
 - **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/computationalmathematics/blob/main/Estudo_Sensibilidade_Reprodut_Worm_Rede_Sensores_sem_Fio_Lais_DINCON2017.pdf)
 - **Veículo de divulgação:** Conferência Brasileira de Dinâmica, Controle e Aplicações (DINCON 2017)
 - **Citação:** GUIMARAES, L. R.; BARSANTE, L. S.; NASCIMENTO, M.; SILVA, C. A. Estudo da sensibilidade do número de reprodutibilidade basal de um modelo de dispersão de Worm em rede de sensores sem fio. In: Conferência Brasileira de Dinâmica, Controle e Aplicações, 2017, São José do Rio Preto. DINCON, 2017. v. 1.
-- **Link externo:** COLOCAR_LINK_EXTERNO_AQUI
-- **DOI:** COLOCAR_DOI_AQUI
 
 ---
 
