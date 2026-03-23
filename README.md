@@ -14,6 +14,7 @@ Este repositório reúne produções acadêmicas na área de Matemática Computa
 | 2021 | Utilização do modelo epidemiológico SIR na disseminação da COVID-19: uma análise exploratória em Sabará-MG | Paula Cristina Batista Ribeiro | Artigo completo | CONIC 2021 | [PDF](https://github.com/IFMG-Info/computationalmathematics/blob/main/Utilizacao_SIR_COVID19_Sabara_Pula_CONIC2021.pdf) |
 | 2022 | Análise da evolução da COVID-19 em Belo Horizonte baseada em um modelo epidemiológico SIRV | Matheus Saliba Garofolo | Artigo completo | CONIC 2022 | [PDF](https://github.com/IFMG-Info/computationalmathematics/blob/main/Analise_COVID19_BH_SIRV_MatheusSaliba_CONIC2022.pdf) |
 | 2024 | Um estudo comparativo do desempenho de linguagens de programação utilizando técnicas computacionais aplicadas ao Problema do Caixeiro-Viajante | Rodrigo Malaquias Viana | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/computationalmathematics/blob/main/Um_Estudo_Comparativo_PCV_RodrigoMalaquias_TCC2024.pdf) |
+| 2025 | Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo | Daniel de Almeida | Trabalho de Conclusão de Curso | Repositório IFMG | [PDF](https://github.com/IFMG-Info/computationalmathematics/blob/main/Analise_Comparativa_NRainhas_PasseioCavalo_DanielAlmeida_TCC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -142,6 +143,22 @@ Este repositório reúne produções acadêmicas na área de Matemática Computa
 - **Citação:** VIANA, R. M.; GOMES, B. N.; SILVA, C. A. Um estudo comparativo do desempenho de linguagens de programação utilizando técnicas computacionais aplicadas ao Problema do Caixeiro-Viajante. 2024. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal de Minas Gerais.
 - **Link externo:** https://repositorio.ifmg.edu.br/items/401d5689-0889-446d-be9d-61e27a783745
 - **DOI:** Não informado
+
+---
+
+### 9. Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo
+
+- **Autor(a):** Daniel de Almeida
+- **Orientador(a):** Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Trabalho de Conclusão de Curso
+- **Resumo:** O trabalho realiza uma análise comparativa entre diferentes técnicas de projeto de algoritmos aplicadas aos problemas combinatórios das N-Rainhas e do Passeio do Cavalo. Foram investigadas abordagens como Backtracking, Algoritmos Genéticos e a heurística de Warnsdorff, com foco no desempenho computacional, na qualidade das soluções encontradas e nas características de cada método diante de diferentes tamanhos de instância. Os resultados contribuem para a compreensão prática do comportamento dessas estratégias em problemas clássicos da computação combinatória.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/computationalmathematics/blob/main/Analise_Comparativa_NRainhas_PasseioCavalo_DanielAlmeida_TCC2025.pdf)
+- **Veículo de divulgação:** Repositório IFMG
+- **Citação:** ALMEIDA, Daniel de; SILVA, Carlos Alexandre. Análise Comparativa de Técnicas de Projeto de Algoritmos Aplicadas aos Problemas das N-Rainhas e do Passeio do Cavalo. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2025.
+- **Link externo:** https://repositorio.ifmg.edu.br/items/b78ea37c-149f-4dd9-832c-8713e414f065
+- **DOI:** Não informado
+- **Observação:** O trabalho também dialoga com Inteligência Artificial, especialmente pelo uso de algoritmos genéticos e heurísticas aplicadas a problemas clássicos.
 
 ## Organização
 
